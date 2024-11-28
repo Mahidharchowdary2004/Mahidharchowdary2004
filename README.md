@@ -39,8 +39,7 @@
 ## 🎖 Certifications
 - **AWS Certified Cloud Practitioner(cloud)**  
 - **Generative AI (Oracle)**  
-- **Salesforce AI Associate (Salesforce)**  
-- **Data Analytics and Visualization Job Simulation (Accenture)**  
+- **Salesforce AI Associate (Salesforce)**   
 
 ## 🏆 Achievements
 - **9.05 CGPA** at KL University (Till 4th Sem)  
