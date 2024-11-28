@@ -5,9 +5,9 @@
 🌱 Currently mastering ReactJS, NodeJS, Spring, ExpressJS, and Spring Boot.  
 
 ## 📫 Contact Me:
-- **Phone:** +91-7013598950  
-- **Email:** [2200032666cseh@gmail.com](mailto:nallapanenimahidhar2004@gmail.com)  
-- **LinkedIn:** [[@Nallapaneni Mahidhar](https://www.linkedin.com/in/nallapaneni-mahidhar/)](#)  
+- **Phone:** +91-8688131949  
+- **Email:** [nallapanenimahidhar2004@gmail.com](mailto:nallapanenimahidhar2004@gmail.com)  
+- **LinkedIn:** [[@Nallapaneni Mahidhar](https://www.linkedin.com/in/nallapaneni-mahidhar/)]
 
 ## 🎓 Education
 | Degree           | Institute                 | Board/University | CGPA/Percentage | Year       |
