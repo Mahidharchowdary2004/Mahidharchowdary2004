@@ -12,7 +12,7 @@
 ## 🎓 Education
 | Degree           | Institute                 | Board/University | CGPA/Percentage | Year       |
 |------------------|---------------------------|------------------|-----------------|------------|
-| B.Tech (CSEH)     | KL University, Guntur      | KLEF             | 9.08 (Till 5th Sem) | 2022-2026  |
+| B.Tech (CSEH)     | KL University, Guntur      | KLEF             | 9.11 (Till 7th Sem) | 2022-2026  |
 | Senior Secondary | Narayana Junior College     | BIEAP            | 74.1%           | 2020-2022  |
 | Class X          | Dr.K.K.R's Gowtham English Medium High School   | SSC              | 98.5%             | 2020       |
 
