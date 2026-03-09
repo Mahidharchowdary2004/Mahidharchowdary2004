@@ -8,7 +8,7 @@
 - **Phone:** +91-8688131949  
 - **Email:** [nallapanenimahidhar2004@gmail.com](mailto:nallapanenimahidhar2004@gmail.com)  
 - **LinkedIn:** [@Nallapaneni Mahidhar](https://www.linkedin.com/in/nallapaneni-mahidhar/)
-- **Portfolio** ([Portfolio](https://portfoliomahidhar.onrender.com/)
+- **Portfolio** [Portfolio](https://portfoliomahidhar.onrender.com/)
 
 ## 🎓 Education
 | Degree           | Institute                 | Board/University | CGPA/Percentage | Year       |
