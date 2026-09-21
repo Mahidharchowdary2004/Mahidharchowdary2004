@@ -28,17 +28,35 @@
 - **Developer Tools:** VS Code, Git, Eclipse, Postman
 - **Professional Skills:** Analytical Thinking, Communication, Teamwork
 
+## 💼 Experience
+
+### 💻 Cogent Web Services — Software Developer (Remote)
+**Duration:** Dec 2025 – Present
+
+#### 🎯 GFPluss – Food Ordering Platform
+**Tech Stack:** React Native, React.js, Node.js, Express.js, PostgreSQL, Prisma ORM
+- Developed the customer mobile app, admin panel, and restaurant partner panel.
+- Implemented delivery, takeaway, dine-in booking, order management, menu management, coupons, promotions, analytics dashboards, and role-based authentication.
+- Integrated Razorpay for payment processing, developed REST APIs, managed database schemas, deployed applications, and resolved production issues.
+
+#### 🎯 Crown Venue – Full-Stack Event Management Platform
+**Tech Stack:** React.js, Node.js, Express.js, PostgreSQL, Drizzle ORM
+- Architected and developed a customer website, vendor portal, and admin dashboard.
+- Implemented vendor onboarding, booking workflows, role-based access control (RBAC), admin approval systems, and vendor/service management.
+- Integrated Razorpay, developed REST APIs, managed database schemas, and implemented evolving client requirements.
+
 ## 💻 Projects
-### 🎯 Online Car Rental System  
-**Duration:** July 2023 - Dec 2023  
-- Built using the MERN stack.  
-- Integrated secure payment gateways.  
+
+### 🎯 Online Car Rental System
+**Duration:** July 2023 – Dec 2023
+- Built using the MERN stack.
+- Integrated secure payment gateways.
 - Documented APIs and system architecture.
 
-### 🎯 WEB-BASED CAREER ASSESSMENT TOOL FOR STUDENTS  
-**Duration:** Aug 2023 - Dec 2024  
-- Made a tool to help students find suitable careers.  
-- Built fun career quizzes and used Spring Boot, JSP, and MySQL.
+### 🎯 WEB-BASED CAREER ASSESSMENT TOOL FOR STUDENTS
+**Duration:** Aug 2023 – Dec 2024
+- Developed a career assessment tool to help students identify suitable career paths.
+- Built interactive career quizzes using Spring Boot, JSP, and MySQL.
 - Focused on easy navigation and secure data handling.
   
 ## 🎖 Certifications
