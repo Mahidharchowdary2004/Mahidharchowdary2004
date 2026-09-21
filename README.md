@@ -68,4 +68,4 @@ Certificate ID: TNext SE 25 J 250891788**
 - **ServiceNow Certified System Administrator**
 
 ## 🏆 Achievements
-- **9.17 CGPA** at KL University (Till 7th Sem)  
+- **9.16 CGPA** at KL University
